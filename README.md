@@ -19,4 +19,9 @@ Here is the first schema of the database <br />
 
 ## Releases
 
-- Version 0.1 : Scheduled for December 23 
+- Version 0.1 : Scheduled for December 23
+       - [] Login
+       - [] Dashboard View
+       - [] Instances management
+       - [] Roles & permissions management
+       - [] Users management 
