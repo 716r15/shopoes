@@ -20,8 +20,8 @@ Here is the first schema of the database <br />
 ## Releases
 
 - Version 0.1 : Scheduled for December 23
-       - [] Login
-       - [] Dashboard View
-       - [] Instances management
-       - [] Roles & permissions management
-       - [] Users management 
+      - Login
+      - Dashboard View
+      - Instances management
+      - Roles & permissions management
+      - Users management 
