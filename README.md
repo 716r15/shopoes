@@ -1,5 +1,5 @@
 # Shopoes
-![shopoes](https://github.com/716r15/shopoes/blob/main/shopoes.png)
+![shopoes](https://github.com/716r15/shopoes/blob/main/Shopoes.png)
 
 ## Introduction
 
