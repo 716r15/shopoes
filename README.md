@@ -14,8 +14,8 @@ Every contributions will be helpful and really appreciated. If you have question
 
 ## Database
 
-Here is the first schema of the database 
-![alt text](https://github.com/716r15/shopoes/blob/main/database.png)
+Here is the first schema of the database <br />
+![database](https://github.com/716r15/shopoes/blob/main/database.png)
 
 ## Releases
 
